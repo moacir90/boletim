@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+.internadosredeparticular{
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    height: 100px;
+    align-items: center;
+    background-color: rgb(190, 138, 69);
+    border-radius: 0  50px 50px 0 ;
+}
+.dados_internadosredeparticular{
+    margin-right: 8px;
+    color: rgb(190, 138, 69);
+    font-size: 24px;
+    width: 90px;
+    height: 90px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto_internadosredeparticular{
+    color: white;
+    font-size: 30px;
+    margin-left: 8px;
+    font-family: "kanit" , serif;
+    letter-spacing: 1px;
+
+}
+
+

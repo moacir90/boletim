@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+.confirmados{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    height: 100px;
+    align-items: center;
+    background-color: red;
+    border-radius: 0  50px 50px 0 ;
+}
+.dados_confirmados{
+    margin-right: 8px;
+    color: red;
+    font-size: 24px;
+    width: 90px;
+    height: 90px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto_confirmados{
+    
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: 8px;
+    font-family: "kanit" , serif;
+    letter-spacing: 1px;
+} 
+
+
+
+

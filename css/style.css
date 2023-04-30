@@ -1,0 +1,38 @@
+@import "dados_detalhados_descartados.css";
+@import "dados_detalhados_aldeiaindigena.css";
+@import "dados_detalhados_confirmados.css";
+@import "dados_detalhados_suspeitos.css";
+@import "dados_gerais.css";
+@import "dados_detalhados_internados.css";
+@import "dados_detalhados_internadosredeparticular.css";
+@import "dados_detalhados_obitoconfirmados.css";
+@import "dados_detalhados_recuperados.css";
+
+
+
+
+
+main {
+    display: flex;
+}
+
+.dados_detalhados{
+    width: 60%;
+    height: 500px;
+    /* background-color: rgb(236, 245, 245); */
+}
+
+.dados_gerais{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 500px;
+    background-color: rgba(227, 217, 236, 0.277);
+    /* background:linear-gradient(70deg, #eac81d, #f61919); */
+}
+
+img {
+    width: 180px;
+}
